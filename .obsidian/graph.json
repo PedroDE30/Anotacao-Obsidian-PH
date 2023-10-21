@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Topic",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#🌱",
+      "color": {
+        "a": 1,
+        "rgb": 7601920
+      }
+    },
+    {
+      "query": "tag:#🌲",
+      "color": {
+        "a": 1,
+        "rgb": 1932822
+      }
+    },
+    {
+      "query": "tag:#Procedure",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Algorithm",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#Sources",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#Review",
+      "color": {
+        "a": 1,
+        "rgb": 1837155
+      }
+    },
+    {
+      "query": "tag:#Personal",
+      "color": {
+        "a": 1,
+        "rgb": 723721
+      }
+    },
+    {
+      "query": "tag:#Idea",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#⚛",
+      "color": {
+        "a": 1,
+        "rgb": 16711791
+      }
+    },
+    {
+      "query": "path:\"Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 0.985068493150685,
+  "lineSizeMultiplier": 0.1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0.800587084148728,
+  "linkDistance": 71,
+  "scale": 0.029677257030501086,
+  "close": true
+}

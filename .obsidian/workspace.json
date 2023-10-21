@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "2ac2a308bbe35afb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb53bfd01c22c134",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4eeab86d95ba95d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8927cf6ce39169f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "620401c6c6e5c8fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9928ae5792110d72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "0c57e99727a526c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "angina ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eba33a0b0c9c8072",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f2120e36f2682c95",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba2e59a3900f54a4",
+        "type": "tabs",
+        "dimension": 25.062656641604008,
+        "children": [
+          {
+            "id": "1a8744590263c678",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8334b3791dbd014c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d4ec84ab85b04fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "5cfbe50f8ebdd121",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1f4991fc90998f0d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "56d40821f3592ee3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b1bda210c99c6c7d",
+        "type": "tabs",
+        "dimension": 42.10526315789473,
+        "children": [
+          {
+            "id": "46b2e305cc0cedae",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f5c42dd74300a5b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d2c0a16915e9368",
+        "type": "tabs",
+        "dimension": 32.83208020050125,
+        "children": [
+          {
+            "id": "5d3396ecd6952735",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1,
+                  "nodeSizeMultiplier": 0.745289079229122,
+                  "lineSizeMultiplier": 0.353568879371877,
+                  "collapse-forces": false,
+                  "centerStrength": 0.502855103497502,
+                  "repelStrength": 4.00428265524625,
+                  "linkStrength": 1,
+                  "linkDistance": 167,
+                  "scale": 0.2160724647906785,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e4eeab86d95ba95d",
+  "lastOpenFiles": [
+    "Zettelkasten/Casos Clínicos de Dermato.md",
+    "README.md",
+    "Anotacao-Obsidian-PH/README.md",
+    "Anotacao-Obsidian-PH",
+    "Zettelkasten/Psoríase.md",
+    "Zettelkasten/Revisão de Ciru Geral.md",
+    "Zettelkasten/Pneumonia.md",
+    "Zettelkasten/Bronquiolite.md",
+    "Zettelkasten/Infecções das Vias Aéreas Superiores (IVAS).md",
+    "Daily Notes/2023-10-18.md",
+    "Trackers/Meditation Tracker.md",
+    "Daily Notes/2023-10-17.md",
+    "Zettelkasten/Pediatria.md",
+    "Zettelkasten/Principais Causas de Cegueira.md",
+    "Trackers/Exercise Tracker.md",
+    "Trackers/BF% Tracker.md",
+    "Trackers/Calories Tracker.md",
+    "Trackers/LBM Tracker.md",
+    "Trackers/RHR Tracker.md",
+    "Trackers/Review Tracker.md",
+    "Trackers/⚛ Tracker.md",
+    "Trackers/Sleep Tracker.md",
+    "Trackers/Weight Tracker.md",
+    "Trackers/🌱 Tracker.md",
+    "Trackers/🌲 Tracker.md",
+    "Daily Notes/2023-10-10.md",
+    "Daily Notes/2023-10-09.md",
+    "Referências/Artigos Imuno/Latin American consensus on the supportive management of patients with severe combined immunodeficiency.pdf",
+    "Referências/Artigos Imuno/Imunodeficiência combinada grave.pdf",
+    "Referências/Artigos Imuno/Testes Laboratoriais Aplicados à Imunologia Clínica.pdf",
+    "Referências/Artigos Imuno/The International WAO-EAACI guideline for the management of hereditary angioedema - the 2021 revision and update.pdf",
+    "Referências/Artigos Imuno/IMPORTÂNCIA E IMPLICAÇÕES GLOBAIS DA TRIAGEM NEONATAL PARA A IMUNODEFICIÊNCIA GRAVE COMBINADA.pdf",
+    "Referências/Artigos Imuno/European Society for Immunodeficiencies (ESID) and European Reference Network on Rare Primary Immunodeficiency, Autoinflammatory and Autoimmune Diseases (ERN RITA) Complement Guideline.pdf",
+    "Referências/Artigos Imuno/Deficiência de anticorpos específicos antipolissacarídeos.pdf",
+    "Referências/Artigos Imuno/Uma nova classe de doenças – doenças autoinflamatórias.pdf",
+    "Referências/Artigos Imuno/O estado da arte das síndromes autoinflamatórias associadas à criopirina.pdf",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.36.19.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.35.43.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.35.12.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.34.01.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.33.30.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.32.48.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.32.30.jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.32.03 (1).jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.31.38 (1).jpeg",
+    "Files/Imagens Uro/WhatsApp Image 2021-02-17 at 10.30.57 (1).jpeg"
+  ]
+}
